@@ -12,7 +12,7 @@ Simple Qt calculator for termux (x11-repo) and linux made in QtCreator
 
 ```bash
 pkg update 
-pkg install qt5-qt ase qt5-qttools
+pkg install qt5-qtbase qt5-qttools
 ```
 
 # Build the application 
