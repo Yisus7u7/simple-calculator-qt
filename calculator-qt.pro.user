@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.12.4, 2021-08-08T19:40:49. -->
+<!-- Written by QtCreator 4.12.4, 2021-08-08T20:15:15. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -284,8 +284,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/data/data/com.termux/files/home/Documents/qt-apps/calculator-qt/calculator-qt.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/data/data/com.termux/files/home/Documents/qt-apps/calculator-qt/calculator-qt.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">calculator-qt2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/data/data/com.termux/files/home/Documents/qt-apps/simple-calculator-qt/calculator-qt.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/data/data/com.termux/files/home/Documents/qt-apps/simple-calculator-qt/calculator-qt.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

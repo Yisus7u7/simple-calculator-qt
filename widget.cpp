@@ -1,3 +1,5 @@
+//created by Yisus7u7 in termux
+
 #include "widget.h"
 #include "ui_widget.h"
 
